@@ -1,77 +1,129 @@
-
 body{
+
 background-image: url(watermelon3.jpg);
+
 background-size: cover;
+
 }
 
+
+
 h1{
+
 border-bottom: 1px solid black;
 font-family: Times New Roman;
 font-family: Times New Roman;
-font-size: 40px;
+font-size: 3vw;
 font-family: Times New Roman;
 font-weight: bold;
 border-width: 1px;	
 text-align: center;
 margin-bottom:10px;
-background-color: maroon;
+max-width:100%;
+background-color: rgb(128,0,0);
 opacity: 0.9;
+height: 100%;
+width: 100%;
+
 }
 
+
+
 p{	
-font-family: Times New Roman;
-font-size: 1.7em;
-font-family: Times New Roman;
+
+font-size: 2vw;
 font-weight: bold;
 border-width: 1px;
-margin-left:4em;
-margin-right:4em;
+margin-left:373px;
+margin-right: 200px;
 text-align: center;
-margin-top:0.25em;
-margin-bottom:1em;
-background-color: rgb(165,42,42);
-opacity:.95;
-padding: 0.5em;
-line-height: 1.2;
-align-items: center;
+margin-top:20px;
+margin-bottom:5px;
+max-width: 81%;
+background-color: maroon;
+border: 1px solid black;
+padding:10px;
+margin: auto;
+font-family:  Times New Roman
+
 }
+
+
 
 #nav{
 
+
+
 background-color: gray;
+
 height: 2.2em;
-font-size: 1.5em;
+
+font-size: 1.5vw;
+
 font-weight: bold;
+
 font: Tahoma;
+
 opacity:0.9;
 
+
+
 }
+
+
 
 #nav ul{
+
 	list-style-type:none;
+
 	padding: 0;
+
 	margin:0;
+
 	text-align: center;
+
 }
+
+
 
 #nav li{
+
 display: inline;
+
 padding:15px;
+
 vertical-align:middle;
 
+
+
 	
+
 }
+
+
 
 #nav a{
+
 text-decoration:none;
+
 padding:8px 8px 8px 8px;
+
 color: white;
+
 vertical-align: middle;
+
 	
+
 }
 
+
+
 #nav a:hover{
+
 	color: maroon;
+
 	background-color:white;
+
 	
+
 }
